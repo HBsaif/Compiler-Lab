@@ -1,0 +1,4 @@
+inserting a with type 1
+inserting b with type 2
+inserting c with type 2
+Parsing finished!
